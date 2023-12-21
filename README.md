@@ -7,6 +7,52 @@ This program is used for the judger to lead the game, assign roles to players, a
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Generate playerID and assign roles:
+waiting for players join the game...
+1 player 1 joined the game
+2 player 2 joined the game
+3 player 3 joined the game
+4 player 4 joined the game
+5 player 5 joined the game
+6 player 6 joined the game
+game starts
+3 2 1 
+
+player1 is: werewolf id is: 1
+player2 is: werewolf id is: 2
+player3 is: villager id is: 3
+player4 is: seer id is: 4
+player5 is: villager id is: 5
+player6 is: witch id is: 6
+
+Let all players check their role in turns: 
+please verify your role, player1 check role, please press the enter bottum
+your role is: werewolf
+please verify your role, player2 check role, please press the enter bottum
+your role is: werewolf
+please verify your role, player3 check role, please press the enter bottum
+your role is: villager
+please verify your role, player4 check role, please press the enter bottum
+your role is: seer
+please verify your role, player5 check role, please press the enter bottum
+your role is: villager
+please verify your role, player6 check role, please press the enter bottum
+your role is: witch
+
+print the number of players in each category: 
+human:2,god:2,wolf:2
+
+Game begins:
+day1~~~~~~~~~~~~~~~~~~~~~
+1 night begins
+Seer please check one player's identity
+player [1, 2, 3, 4, 5, 6] are alive
+please enter a player ID from the alive list:
+enter 1
+you have checked player 1 identity is WOLF
+Seer please close your eyes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+![image](https://github.com/xinyan30425/WolfKillProgram-/assets/91167901/deff385c-7700-495f-a283-7a39efd60e6e)
 
 wolf team wake up
 player [1, 2, 3, 4, 5, 6] are alive
