@@ -3,7 +3,6 @@ This project creates a simple “Wolf Kill” game program for the judger’s in
 This program is used for the judger to lead the game, assign roles to players, and calculate the condition of victory.
 
 # Example gaming process walk-through:
-![image](https://github.com/xinyan30425/WolfKillProgram-/assets/91167901/fc37d8b8-8b9e-4f40-9d91-cf26602e61d3)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -52,7 +51,6 @@ enter 1
 you have checked player 1 identity is WOLF
 Seer please close your eyes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-![image](https://github.com/xinyan30425/WolfKillProgram-/assets/91167901/deff385c-7700-495f-a283-7a39efd60e6e)
 
 wolf team wake up
 player [1, 2, 3, 4, 5, 6] are alive
@@ -176,7 +174,7 @@ vote ends
 player [5, 6] are alive
 human:1,god:1,wolf:0
 human team wins
-![image](https://github.com/xinyan30425/WolfKillProgram-/assets/91167901/785c2040-4ae8-45ae-8593-17eff901c413)
 
-Since player1 is werewolf, thus the number of werewolves is zero, the game ends and the winner is human team. (human team refers to both villagers and god)![image](https://github.com/xinyan30425/WolfKillProgram-/assets/91167901/fa2b0526-1dd0-4ce7-a26d-fbbe28178031)
+
+Since player1 is werewolf, thus the number of werewolves is zero, the game ends and the winner is human team. (human team refers to both villagers and god)!
 
